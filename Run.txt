@@ -1,0 +1,2 @@
+train: py train_cnn.py
+test: py predict.py
